@@ -1,0 +1,7 @@
+C:\Users\INDRAJEET\Desktop\My Git Data\.NET\Assignment01\Question03\obj\Debug\Question03.csproj.AssemblyReference.cache
+C:\Users\INDRAJEET\Desktop\My Git Data\.NET\Assignment01\Question03\obj\Debug\Question03.csproj.CoreCompileInputs.cache
+C:\Users\INDRAJEET\Desktop\My Git Data\.NET\Assignment01\Question03\bin\Debug\Question03.exe.config
+C:\Users\INDRAJEET\Desktop\My Git Data\.NET\Assignment01\Question03\bin\Debug\Question03.exe
+C:\Users\INDRAJEET\Desktop\My Git Data\.NET\Assignment01\Question03\bin\Debug\Question03.pdb
+C:\Users\INDRAJEET\Desktop\My Git Data\.NET\Assignment01\Question03\obj\Debug\Question03.exe
+C:\Users\INDRAJEET\Desktop\My Git Data\.NET\Assignment01\Question03\obj\Debug\Question03.pdb
